@@ -1,0 +1,15 @@
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\bin\Debug\net6.0\WriteAndWriteline.exe
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\bin\Debug\net6.0\WriteAndWriteline.deps.json
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\bin\Debug\net6.0\WriteAndWriteline.runtimeconfig.json
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\bin\Debug\net6.0\WriteAndWriteline.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\bin\Debug\net6.0\WriteAndWriteline.pdb
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.csproj.AssemblyReference.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.AssemblyInfoInputs.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.AssemblyInfo.cs
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\refint\WriteAndWriteline.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.pdb
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\WriteAndWriteline.genruntimeconfig.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\WriteAndWriteline\obj\Debug\net6.0\ref\WriteAndWriteline.dll

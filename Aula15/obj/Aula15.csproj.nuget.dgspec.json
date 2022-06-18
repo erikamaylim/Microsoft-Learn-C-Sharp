@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula15\\Aula15.csproj": {}
+    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\aula15\\Aula15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula15\\Aula15.csproj": {
+    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\aula15\\Aula15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula15\\Aula15.csproj",
+        "projectUniqueName": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\aula15\\Aula15.csproj",
         "projectName": "Aula15",
-        "projectPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula15\\Aula15.csproj",
+        "projectPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\aula15\\Aula15.csproj",
         "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula15\\obj\\",
+        "outputPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\aula15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config"

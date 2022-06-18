@@ -1,0 +1,15 @@
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\bin\Debug\net6.0\Aula18.exe
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\bin\Debug\net6.0\Aula18.deps.json
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\bin\Debug\net6.0\Aula18.runtimeconfig.json
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\bin\Debug\net6.0\Aula18.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\bin\Debug\net6.0\Aula18.pdb
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.csproj.AssemblyReference.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.AssemblyInfoInputs.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.AssemblyInfo.cs
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\refint\Aula18.dll
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.pdb
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\Aula18.genruntimeconfig.cache
+C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Aula18\obj\Debug\net6.0\ref\Aula18.dll

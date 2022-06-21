@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula23\\Aula23.csproj",
+      "projectUniqueName": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Dê-seus-primeiros-passos-com-C-Sharp\\Aula23\\Aula23.csproj",
       "projectName": "Aula23",
-      "projectPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula23\\Aula23.csproj",
+      "projectPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Dê-seus-primeiros-passos-com-C-Sharp\\Aula23\\Aula23.csproj",
       "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Aula23\\obj\\",
+      "outputPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Dê-seus-primeiros-passos-com-C-Sharp\\Aula23\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,4 +1,4 @@
-# Microsoft-Learn-C-Sharp
+# Microsoft Learn
 Curso de C# do [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)
 
 #### Coleção Learn C#

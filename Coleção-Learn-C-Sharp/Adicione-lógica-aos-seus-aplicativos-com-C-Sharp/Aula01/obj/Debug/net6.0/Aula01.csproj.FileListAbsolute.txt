@@ -13,3 +13,18 @@ C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Ad
 C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.pdb
 C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.genruntimeconfig.cache
 C:\Users\Erika\Programas - C#\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\ref\Aula01.dll
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\bin\Debug\net6.0\Aula01.exe
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\bin\Debug\net6.0\Aula01.deps.json
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\bin\Debug\net6.0\Aula01.runtimeconfig.json
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\bin\Debug\net6.0\Aula01.dll
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\bin\Debug\net6.0\Aula01.pdb
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.csproj.AssemblyReference.cache
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.AssemblyInfo.cs
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.dll
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\refint\Aula01.dll
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.pdb
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\Aula01.genruntimeconfig.cache
+C:\Users\kika_\OneDrive\Documentos\GitHub\Microsoft-Learn-C-Sharp\Coleção-Learn-C-Sharp\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\Aula01\obj\Debug\net6.0\ref\Aula01.dll

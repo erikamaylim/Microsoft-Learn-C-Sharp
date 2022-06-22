@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\Aula01\\Aula01.csproj": {}
+    "C:\\Users\\kika_\\OneDrive\\Documentos\\GitHub\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\aula01\\Aula01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\Aula01\\Aula01.csproj": {
+    "C:\\Users\\kika_\\OneDrive\\Documentos\\GitHub\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\aula01\\Aula01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\Aula01\\Aula01.csproj",
+        "projectUniqueName": "C:\\Users\\kika_\\OneDrive\\Documentos\\GitHub\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\aula01\\Aula01.csproj",
         "projectName": "Aula01",
-        "projectPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\Aula01\\Aula01.csproj",
-        "packagesPath": "C:\\Users\\Erika\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erika\\Programas - C#\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\Aula01\\obj\\",
+        "projectPath": "C:\\Users\\kika_\\OneDrive\\Documentos\\GitHub\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\aula01\\Aula01.csproj",
+        "packagesPath": "C:\\Users\\kika_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kika_\\OneDrive\\Documentos\\GitHub\\Microsoft-Learn-C-Sharp\\Coleção-Learn-C-Sharp\\Adicione-lógica-aos-seus-aplicativos-com-C-Sharp\\aula01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Erika\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kika_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
